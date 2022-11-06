@@ -1,0 +1,18 @@
+dev:
+    distpath: distPath
+    host: host
+    password: password
+    port: 22
+    sshtype: password
+    username: userName
+    webdir: webDir
+prod:
+    distpath: distPath
+    host: host
+    password: password
+    port: 22
+    sshtype: password
+    username: userName
+    webdir: webDir
+projectname: projectname
+sshkey: ""
